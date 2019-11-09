@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-NouveauScrumApplication<NouveauScrum>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.group27.NouveauScrum.NouveauScrumApplication",
+            "projectName": "NouveauScrum",
+            "args": ""
+        }
+    ]
+}
